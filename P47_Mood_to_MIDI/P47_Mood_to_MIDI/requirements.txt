@@ -1,0 +1,7 @@
+streamlit>=1.35
+numpy<2
+pretty_midi>=0.2.10
+pypianoroll>=1.0.4
+laion-clap>=1.1.6
+google-genai>=1.0.0
+python-dotenv>=1.0
